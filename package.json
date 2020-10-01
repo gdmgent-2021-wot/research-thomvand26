@@ -1,0 +1,19 @@
+{
+  "name": "onderzoek-chatbots",
+  "version": "0.0.1",
+  "description": "Onderzoek naar chatbots.",
+  "main": "index.js",
+  "authors": {
+    "name": "Thomas",
+    "email": "thomvand26@student.arteveldehs.be"
+  },
+  "repository": "https://github.com/gdmgent-2021-wot/research-thomvand26",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
