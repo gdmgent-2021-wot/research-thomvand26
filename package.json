@@ -10,7 +10,8 @@
   "repository": "https://github.com/gdmgent-2021-wot/research-thomvand26",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "deploy": "npm run build && cd src/.vuepress/dist && git init && git add -A && git commit -m 'deploy' && git push -f https://github.com/gdmgent-2021-wot/research-thomvand26.git master:gh-pages"
   },
   "license": "MIT",
   "devDependencies": {
