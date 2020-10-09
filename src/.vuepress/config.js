@@ -22,6 +22,8 @@ module.exports = {
 			'meta',
 			{ name: 'apple-mobile-web-app-status-bar-style', content: 'black' },
 		],
+		['link', { rel: "icon", type: "image/png", sizes: "96x96", href: "/assets/favicons/favicon-96x96.png"}],
+		['link', { rel: "icon", type: "image/png", sizes: "48x48", href: "/assets/favicons/favicon-48x48.png"}],
 	],
 
 	/**
