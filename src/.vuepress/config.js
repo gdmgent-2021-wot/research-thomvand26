@@ -37,11 +37,44 @@ module.exports = {
 		lastUpdated: false,
 		nav: [
 			{
+				text: 'Over',
+				link: '/over/',
+			},
+			{
+				text: 'Toepassingen',
+				link: '/toepassingen/',
+			},
+			{
+				text: 'Documentatie',
+				link: '/documentatie/',
+			},
+			{
 				text: 'Referenties',
 				link: '/referenties/',
 			},
 		],
 		sidebar: {
+			'/over/': [
+				{
+					title: 'Over',
+					collapsable: false,
+					children: ['', 'geschiedenis', 'tools-talen', 'intelligentie', 'werking'],
+				},
+			],
+			'/toepassingen/': [
+				{
+					title: 'Toepassingen',
+					collapsable: false,
+					children: [''],
+				},
+			],
+			'/documentatie/': [
+				{
+					title: 'Documentatie',
+					collapsable: false,
+					children: ['', 'demo'],
+				},
+			],
 		},
 	},
 
