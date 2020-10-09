@@ -14,3 +14,16 @@
 - https://en.wikipedia.org/wiki/WeChat
 - https://nl.wikipedia.org/wiki/Google_Now
 - https://nl.wikipedia.org/wiki/Microsoft_Cortana
+- https://www.alternate.be/
+- https://www.tripwire.com/state-of-security/security-data-protection/chatbot-used-by-phishing-scammers-to-help-victims-provide-their-data/
+- https://medicalfuturist.com/top-12-health-chatbots/
+- https://sproutsocial.com/chatbots/
+- https://developers.facebook.com/docs/messenger-platform
+- https://business.twitter.com/en/help/campaign-editing-and-optimization/direct-messages.html
+- https://hackernoon.com/build-chatbot-for-twitter-direct-message-e308ee9cda08
+- https://www.chatbot.com/
+- https://chatfuel.com/
+- https://flowxo.com/pricing/
+- https://www.rivescript.com/
+- https://medium.com/@pemagrg/aiml-tutorial-a8802830f2bf
+- https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aDUo_ia-Vq2UZZGaxJ9nRo
