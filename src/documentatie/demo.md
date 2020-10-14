@@ -14,8 +14,7 @@ Om onze eigen chatbot te maken, maken we een standaard project aan met een HTML,
 .
 ├── app.js
 ├── index.html
-├── main.css
-└── test.rive
+└── main.css
 ```
 
 In het HTML bestand zetten we boilerplate HTML code (in Visual Studio Code kan dit makkelijk met: ! + Enter).
