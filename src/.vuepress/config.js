@@ -60,7 +60,7 @@ module.exports = {
 				{
 					title: 'Over',
 					collapsable: false,
-					children: ['', 'geschiedenis', 'tools-talen', 'intelligentie', 'werking'],
+					children: ['', 'geschiedenis', 'tools-talen'],
 				},
 			],
 			'/toepassingen/': [
