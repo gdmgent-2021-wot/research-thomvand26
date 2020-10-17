@@ -27,3 +27,4 @@
 - https://www.rivescript.com/
 - https://medium.com/@pemagrg/aiml-tutorial-a8802830f2bf
 - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aDUo_ia-Vq2UZZGaxJ9nRo
+- https://openweathermap.org/api
