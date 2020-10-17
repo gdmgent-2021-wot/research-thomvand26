@@ -1,3 +1,3 @@
 # Over
 
-In dit deel zien we hoe de chatbot ontstond en evolueerde, hoe zo'n chatbot nu eigenlijk werkt en de (artificiële) intelligentie, die steeds belangrijker wordt, in chatbots.
+In dit deel zien we hoe de chatbot ontstond en evolueerde, en welke programmertalen, API's en tools er bestaan om zelf een chatbot te maken.
