@@ -74,7 +74,7 @@ module.exports = {
 				{
 					title: 'Documentatie',
 					collapsable: false,
-					children: ['', 'demo'],
+					children: ['', 'demo', 'frankbot'],
 				},
 			],
 		},
